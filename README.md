@@ -1,5 +1,9 @@
-<img width="1164" height="794" alt="image" src="https://github.com/user-attachments/assets/88a6bfda-2fdd-4c5a-b361-b5066340663b" /># -tools
+# -tools
 小妖精工具箱-在线工具网站
+<img width="1164" height="794" alt="image" src="https://github.com/user-attachments/assets/88a6bfda-2fdd-4c5a-b361-b5066340663b" />
+<img width="1071" height="840" alt="image" src="https://github.com/user-attachments/assets/917f3f37-da40-4246-a8e3-b8bf25674f46" />
+<img width="1121" height="846" alt="image" src="https://github.com/user-attachments/assets/b06f9d80-3b9f-455d-b847-b05962ddaeef" />
+<img width="1141" height="710" alt="image" src="https://github.com/user-attachments/assets/afd0ac2a-b4bc-4a5f-857c-5e604ca1bd72" />
 
 小妖精工具是一个集合了众多在线工具的网站，包含了以下工具：
 
