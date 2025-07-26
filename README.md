@@ -1,5 +1,5 @@
 # -tools
-小妖精工具箱-在线工具网站
+小妖精工具箱-一站式在线实用工具平台【tool.xyjzy.com】
 <img width="1164" height="794" alt="image" src="https://github.com/user-attachments/assets/88a6bfda-2fdd-4c5a-b361-b5066340663b" />
 <img width="1071" height="840" alt="image" src="https://github.com/user-attachments/assets/917f3f37-da40-4246-a8e3-b8bf25674f46" />
 <img width="1121" height="846" alt="image" src="https://github.com/user-attachments/assets/b06f9d80-3b9f-455d-b847-b05962ddaeef" />
@@ -75,3 +75,4 @@ QQ 名片生成、仿腾讯充值：生成虚拟的 QQ 名片样式，模拟腾�
 现已经全新改版，百分之九十的工具全部更改为插件，访问效果更佳！
 
 访问地址：https://tool.xyjzy.com
+加入QQ交流群：1053859336
